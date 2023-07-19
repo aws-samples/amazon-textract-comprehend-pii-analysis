@@ -6,7 +6,7 @@ To extract PII data from documents, customers usually need to manually extract a
 
 This sample sets up a **document processing pipeline** orchestrated by serverless offerings from Amazon, as shown below:
 
-![](img/architecture-overview.jpg "Architecture overview diagram")
+![](img/architecture_overview.jpg "Architecture overview diagram")
 
 Documents uploaded to the input bucket automatically trigger AWS Lambda, which:
 
