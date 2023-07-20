@@ -15,7 +15,7 @@ Parameters:
   EnvName:
     Type: String
     Default: dev
-    Description: Enter the AWS region for hosting the application
+    Description: Enter the environment tag for hosting the application
 Resources:
   TextractProcessingRole:
     Type: 'AWS::IAM::Role'
